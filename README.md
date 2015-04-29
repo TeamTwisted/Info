@@ -18,8 +18,9 @@ RRO Layers -letmedanz
 
 Network Monitor -aow1980
 
-
-
-Working On:
-
 Display Rotation -aow1980
+
+SuperSU Flash with Rom -aow980
+
+SimpleExplorer in build -aow1980
+
