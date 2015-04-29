@@ -24,3 +24,5 @@ SuperSU Flash with Rom -aow980
 
 SimpleExplorer in build -aow1980
 
+Added Kernel from Franco for Hammerhead and Shamu -aow1980
+
