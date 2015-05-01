@@ -35,3 +35,5 @@ Volume Control Media from slim-aow1980
 Ime Features From Slim -aow1980
 
 LP Keyguard Notifications from Slim -aow1980
+
+Heads Up Settings from Chroma -aow1980
