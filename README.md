@@ -18,7 +18,7 @@ RRO Layers -letmedanz
 
 Network Monitor -aow1980
 
-Display Rotation -aow1980
+Display Rotation from Slim -aow1980
 
 SuperSU Flash with Rom -aow980
 
@@ -26,3 +26,12 @@ SimpleExplorer in build -aow1980
 
 Added Kernel from Franco for Hammerhead and Shamu -aow1980
 
+Battery and Notification Lights from Slim -aow1980
+
+Safe Headset Volume from Slim -aow1980
+
+Volume Control Media from slim-aow1980
+
+Ime Features From Slim -aow1980
+
+LP Keyguard Notifications from Slim -aow1980
