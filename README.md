@@ -4,7 +4,7 @@ Commits and Text
 Added Features so far.
 Please add new features to this list as working on or completed.
 
-Working:
+Completed:
 
 Navbar Dpi -aow1980
 
