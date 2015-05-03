@@ -24,6 +24,8 @@ SuperSU Flash with Rom -aow980
 
 SimpleExplorer in build -aow1980
 
+AdAway in build -MidnightRider67
+
 Added Kernel from Franco for Hammerhead and Shamu -aow1980
 
 Battery and Notification Lights from Slim -aow1980
