@@ -39,3 +39,5 @@ Ime Features From Slim -aow1980
 LP Keyguard Notifications from Slim -aow1980
 
 Heads Up Settings from Chroma -aow1980
+
+Nova Launcher Beta -MidnightRider67
