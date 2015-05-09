@@ -41,3 +41,27 @@ LP Keyguard Notifications from Slim -aow1980
 Heads Up Settings from Chroma -aow1980
 
 Nova Launcher Beta -MidnightRider67
+
+StatusBar Weather -aow1980 
+
+Dialer Lookup -aow1980
+
+MediaScanner -aow1980
+
+Camera Sound -aow1980
+
+Double Tap to Sleep -aow1980
+
+Brightness Slider -aow1980
+
+Swap volume controls on rotate -aow1980
+
+Control Media with screen off -
+
+Expanded Desktop -LetMeDanz
+
+StatusBar Clock settings -LetMeDanz
+
+Stand alone Documents file manager -ezio84
+
+Sure I missed something -aow1980
